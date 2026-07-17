@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Kayo%20Willian&fontColor=FFFFFF&fontSize=42&animation=fadeIn"/>
 
-### Linux • Redes de Computadores • Infraestrutura de TI • Suporte Técnico • Cibersegurança
+### Linux • Redes de Computadores • Infraestrutura de TI • Suporte Técnico
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Construindo+uma+base+s%C3%B3lida+atrav%C3%A9s+de+projetos+e+laborat%C3%B3rios;Documentando+cada+projeto+com+clareza+e+objetividade;Transformando+estudo+em+experi%C3%AAncia+pr%C3%A1tica;Resolvendo+problemas+e+compartilhando+solu%C3%A7%C3%B5es;Evoluindo+um+projeto+de+cada+vez"/>
 
