@@ -12,7 +12,7 @@
 
 ### 👋 Sobre mim
 
-Estou construindo minha base em **redes de computadores** através do curso técnico de **Administrador de Redes (SENAC)** e da certificação **Cisco Networking Academy — Networking Basics**. No dia a dia, uso **Linux (Ubuntu)** como sistema principal, o que me deu prática real resolvendo problemas de configuração, hardware e software — não só teoria.
+Estou construindo minha base em **redes de computadores** através do curso de **Administrador de Redes** e das certificações **Cisco Networking Academy**. No dia a dia, uso **Linux (Ubuntu)** como sistema principal, o que me deu prática real resolvendo problemas de configuração, hardware e software.
 
 Gosto de aprender testando na prática: quando esbarro em um problema real, prefiro entender a fundo e documentar a solução, em vez de só aplicar um fix genérico. Os repositórios fixados abaixo são exemplos disso.
 
@@ -53,9 +53,6 @@ Gosto de aprender testando na prática: quando esbarro em um problema real, pref
 
 **🔧 [Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)**
 Serviço em Python que resolve um problema real de hardware no Linux (GNOME/Wayland): a iluminação RGB do teclado deixa de funcionar porque o driver depende do LED de Scroll Lock, que o Wayland não sincroniza mais. A solução roda como serviço `systemd`, monitora eventos de teclado com `evdev` e escreve diretamente em `/sys/class/leds/`. Documentei todo o processo de diagnóstico (22 comandos de terminal testados) em um guia técnico incluso no repositório.
-
-**🎮 [Channel Blue — Clean It Up!](https://github.com/kayozkx/Channel-Blue)**
-Jogo educacional 2D desenvolvido em GDevelop 5, sobre um espírito das águas que restaura três ecossistemas aquáticos poluídos. Projeto completo com 12 cenas, sistema de fases, e documentação de estrutura, desafios e aprendizados no próprio README. [Jogue no navegador](https://gd.games/kayozkx/clean-it-up).
 
 ---
 
