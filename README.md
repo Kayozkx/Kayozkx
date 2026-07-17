@@ -72,7 +72,7 @@ Esta biblioteca será ampliada conforme novas leituras forem incorporadas aos me
 
 💼 **LinkedIn**
 
-*(em breve)*
+**www.linkedin.com/in/kayo-willian**
 
 <div align="center">
 
