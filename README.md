@@ -45,9 +45,6 @@ Gosto de aprender testando na prática: quando esbarro em um problema real, pref
 <a href="https://github.com/Kayozkx/scrolllock-rgb-fix">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayozkx&repo=scrolllock-rgb-fix&theme=default&title_color=1F4E79&text_color=333333&border_color=1F4E79" />
 </a>
-<a href="https://github.com/kayozkx/Channel-Blue">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayozkx&repo=Channel-Blue&theme=default&title_color=1F4E79&text_color=333333&border_color=1F4E79" />
-</a>
 
 </div>
 
