@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Kayo%20Willian&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Suporte%20Técnico%20%7C%20Redes%20%7C%20Linux&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Kayozkx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Estudante+de+Administra%C3%A7%C3%A3o+de+Redes+(SENAC);Certificado+Cisco+Networking+Academy;Usu%C3%A1rio+de+Linux+(Ubuntu)+no+dia+a+dia;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+de+cada+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Estudante+de+Administra%C3%A7%C3%A3o+de+Redes;Certificado+Cisco+Networking+Academy;Usu%C3%A1rio+de+Linux+(Ubuntu)+no+dia+a+dia;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+de+cada+vez" alt="Typing SVG" />
 </a>
 
 </div>
