@@ -52,18 +52,6 @@ Os próximos repositórios serão voltados para estudos envolvendo:
 
 ---
 
-# 📚 Biblioteca Técnica
-
-Livros que fazem parte da minha formação e servem como base para os projetos desenvolvidos neste perfil.
-
-| Livro | Autor |
-|-------|-------|
-| **Análise de Tráfego em Redes TCP/IP** | João Eriberto Mota Filho |
-
-Esta biblioteca será ampliada conforme novas leituras forem incorporadas aos meus estudos.
-
----
-
 # 📬 Contato
 
 📧 **Email**
