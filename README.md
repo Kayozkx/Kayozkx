@@ -12,43 +12,17 @@
 
 # This GitHub
 
-This profile serves as my technical portfolio.
-
-Here I will document projects, labs, and hands-on studies related to IT infrastructure, Linux, and computer networks.
-
-Each repository represents an investigated problem, the implemented solution, and the key lessons learned throughout development.
-
-The goal is to build a consistent record of technical growth through well-documented projects.
+My technical portfolio, documenting Linux and networking projects — from problem to solution.
 
 ---
 
 # 📂 Projects
 
-The projects published in this profile represent practical applications of the topics I've been studying.
-
 ### 🐧 Linux
 
 | Project | Description |
 |---------|-----------|
-| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | A solution for RGB synchronization on mechanical keyboards in Linux, accompanied by detailed documentation of the investigation, implementation, and how it works. |
-
-New projects will be added as I continue to grow in the field.
-
----
-
-# 🧪 Upcoming Labs
-
-Upcoming repositories will focus on studies involving:
-
-- Linux Administration
-- TCP/IP
-- DNS
-- DHCP
-- SSH
-- Firewall (UFW)
-- Linux Servers
-- Network Monitoring
-- IT Infrastructure
+| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | Fixes RGB lighting on generic gaming keyboards that use the Scroll Lock LED as a firmware trigger — for GNOME/Wayland systems (Ubuntu 24.04+) where the compositor doesn't sync LED state with the hardware. |
 
 ---
 
