@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=whoami&fontColor=FFFFFF&fontSize=42&animation=fadeIn"/>
 
- kayozkx
+ Kayozkx
 ---
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
