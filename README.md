@@ -1,69 +1,62 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Kayo%20Willian&fontColor=FFFFFF&fontSize=42&animation=fadeIn"/>
-
-### Linux • Redes de Computadores
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Construindo+uma+base+s%C3%B3lida+atrav%C3%A9s+de+projetos+e+laborat%C3%B3rios;Documentando+cada+projeto+com+clareza+e+objetividade;Transformando+estudo+em+experi%C3%AAncia+pr%C3%A1tica;Resolvendo+problemas+e+compartilhando+solu%C3%A7%C3%B5es;Evoluindo+um+projeto+de+cada+vez"/>
-
+### Linux • Computer Networks
+ 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Building+a+solid+foundation+through+projects+and+labs;Documenting+each+project+with+clarity+and+objectivity;Turning+study+into+practical+experience;Solving+problems+and+sharing+solutions;Evolving+one+project+at+a+time"/>
 </div>
-
 ---
-
-# Este GitHub
-
-Este perfil funciona como meu portfólio técnico.
-
-Aqui irei documentar projetos, laboratórios e estudos práticos relacionados à infraestrutura de TI, Linux e redes de computadores.
-
-Cada repositório representa um problema investigado, a solução implementada e os principais aprendizados obtidos durante o desenvolvimento.
-
-O objetivo é construir um histórico consistente de evolução técnica por meio de projetos bem documentados.
-
+ 
+# This GitHub
+ 
+This profile serves as my technical portfolio.
+ 
+Here I will document projects, labs, and hands-on studies related to IT infrastructure, Linux, and computer networks.
+ 
+Each repository represents an investigated problem, the implemented solution, and the key lessons learned throughout development.
+ 
+The goal is to build a consistent record of technical growth through well-documented projects.
+ 
 ---
-
-# 📂 Projetos
-
-Os projetos publicados neste perfil representam aplicações práticas dos conteúdos que venho estudando.
-
+ 
+# 📂 Projects
+ 
+The projects published in this profile represent practical applications of the topics I've been studying.
+ 
 ### 🐧 Linux
-
-| Projeto | Descrição |
+ 
+| Project | Description |
 |---------|-----------|
-| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | Solução para sincronização RGB em teclados mecânicos no Linux, acompanhada de documentação detalhada sobre a investigação, implementação e funcionamento. |
-
-Novos projetos serão adicionados conforme minha evolução na área.
-
+| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | A solution for RGB synchronization on mechanical keyboards in Linux, accompanied by detailed documentation of the investigation, implementation, and how it works. |
+ 
+New projects will be added as I continue to grow in the field.
+ 
 ---
-
-# 🧪 Próximos Laboratórios
-
-Os próximos repositórios serão voltados para estudos envolvendo:
-
-- Administração Linux
+ 
+# 🧪 Upcoming Labs
+ 
+Upcoming repositories will focus on studies involving:
+ 
+- Linux Administration
 - TCP/IP
 - DNS
 - DHCP
 - SSH
 - Firewall (UFW)
-- Servidores Linux
-- Monitoramento de Rede
-- Infraestrutura de TI
-
+- Linux Servers
+- Network Monitoring
+- IT Infrastructure
 ---
-
-# 📬 Contato
-
+ 
+# 📬 Contact
+ 
 📧 **Email**
-
+ 
 **kayowillian.net@protonmail.com**
-
+ 
 💼 **LinkedIn**
-
+ 
 **www.linkedin.com/in/kayo-willian**
-
+ 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer"/>
-
 </div>
