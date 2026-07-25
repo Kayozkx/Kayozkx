@@ -14,7 +14,7 @@
 
 Este perfil funciona como meu portfólio técnico.
 
-Aqui documento projetos, laboratórios e estudos práticos relacionados à infraestrutura de TI, Linux e redes de computadores.
+Aqui irei documentar projetos, laboratórios e estudos práticos relacionados à infraestrutura de TI, Linux e redes de computadores.
 
 Cada repositório representa um problema investigado, a solução implementada e os principais aprendizados obtidos durante o desenvolvimento.
 
