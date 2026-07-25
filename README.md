@@ -22,7 +22,7 @@ My technical portfolio, documenting Linux and networking projects.
 
 | Project | Description |
 |---------|-----------|
-| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | Fixes RGB lighting on generic gaming keyboards that use the Scroll Lock LED as a firmware trigger, for GNOME/Wayland systems (Ubuntu 24.04+) where the compositor doesn't sync LED state with the hardware. |
+| **[Scroll Lock RGB Fix](https://github.com/Kayozkx/scrolllock-rgb-fix)** | Fixes RGB lighting on generic gaming keyboards that use the Scroll Lock LED as a firmware trigger for GNOME/Wayland systems (Ubuntu 24.04+) where the compositor doesn't sync LED state with the hardware. |
 
 ### 🌐 Networking
 
