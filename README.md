@@ -14,7 +14,7 @@
 
 ---
 
-## 👨🏻‍💻 About
+# 👨🏻‍💻 About
 
 <table>
 <tr>
