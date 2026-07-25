@@ -6,13 +6,11 @@
 
 ---
 
-### 🐧 Linux &nbsp;•&nbsp; 🌐 Networking &nbsp;•&nbsp; 🛡️ Cybersecurity
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Building+a+solid+foundation+through+projects+and+labs;Documenting+each+project+with+clarity+and+objectivity;Turning+study+into+practical+experience;Solving+problems+and+sharing+solutions;One+step+closer+to+the+blue+team"/>
-
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Building+a+solid+foundation+through+projects+and+labs;Documenting+each+project+with+clarity+and+objectivity;Turning+study+into+practical+experience;Solving+problems+and+sharing+solutions;One+step+closer+to+the+blue+team"/>
 
 </div>
 
