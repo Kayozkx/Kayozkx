@@ -12,7 +12,7 @@
 
 # This GitHub
 
-My technical portfolio, documenting Linux and networking projects — from problem to solution.
+My technical portfolio, documenting Linux and networking projects.
 
 ---
 
