@@ -16,7 +16,9 @@
 
 ## 👨🏻‍💻 About
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="280px" align="right">
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 A log of my path into Linux, networking, and cybersecurity. Every project here documents a real problem, how I solved it, and what I learned along the way.
 
@@ -28,7 +30,14 @@ A log of my path into Linux, networking, and cybersecurity. Every project here d
 - 🔤 Main languages: C++ and Python
 - 📧 Reach me at kayowillian.net@protonmail.com
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
