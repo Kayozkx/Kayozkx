@@ -16,15 +16,11 @@
 
 ---
 
-## 🗂️ About this repo
-
-A log of my path into Linux, networking, and cybersecurity. Every project here documents a real problem, how I solved it, and what I learned along the way.
-
----
-
-# 👨🏻‍💻 About Me
+## 👨🏻‍💻 About
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="280px" align="right">
+
+A log of my path into Linux, networking, and cybersecurity. Every project here documents a real problem, how I solved it, and what I learned along the way.
 
 - 🌎 Based in Brazil
 - 🐧 Linux user, currently on Ubuntu, planning to move to Parrot OS
