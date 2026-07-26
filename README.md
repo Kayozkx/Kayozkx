@@ -23,7 +23,6 @@
 A log of my path into Linux, networking, and cybersecurity. Every project here documents a real problem, how I solved it, and what I learned along the way.
 
 - 🌎 Based in Brazil
-- 🐧 Linux user, currently on Ubuntu, planning to move to Parrot OS
 - 🌐 Building a solid foundation in computer networks and IT infrastructure
 - 🛡️ Working toward a career in cybersecurity, aiming for Blue Team
 - 🔌 Also into electronics and robotics
