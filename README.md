@@ -52,7 +52,7 @@ A log of my path into Linux, networking, and cybersecurity. Every project here d
 
 | Project | Description |
 |---------|-----------|
-| **[Networking Labs](https://github.com/Kayozkx/packet-tracer-labs)**  | Hands on networking labs built in Cisco Packet Tracer, documenting routing, subnetting, DHCP, and other core concepts as I learn them. |
+| **[Networking Labs](https://github.com/kayo-willian/packet-tracer-labs)**  | Hands on networking labs built in Cisco Packet Tracer, documenting routing, subnetting, DHCP, and other core concepts as I learn them. |
 
 ### 🛡️ Cybersecurity
 
