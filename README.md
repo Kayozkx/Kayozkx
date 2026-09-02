@@ -23,10 +23,12 @@
 A log of my path into Linux, networking, and cybersecurity. Every project here documents a real problem, how I solved it, and what I learned along the way.
 
 - 🌎 Based in Brazil
-- 🌐 Building a solid foundation in computer networks and IT infrastructure
-- 🛡️ Working toward a career in cybersecurity, aiming for Blue Team
-- 🔌 Also into electronics and robotics
-- 🔤 Main languages: C++ and Python
+- 🌐 Exploring the foundations of computer networks and IT infrastructure
+- 🐧 Building hands-on experience with Linux, Ubuntu Server, and network administration
+- 🛡️ Working toward a career in cybersecurity, with a focus on Blue Team and defensive security
+- 🔧 Learning by building, breaking, troubleshooting, and documenting real lab environments
+- 📚 Turning every lab into a technical reference for continuous learning
+- 🤖 Curious about electronics, robotics, and how technology works from the ground up
 - 📧 Reach me at kayowillian.net@protonmail.com
 
 </td>
