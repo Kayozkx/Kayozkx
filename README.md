@@ -42,23 +42,19 @@ A log of my path into Linux, networking, and cybersecurity. Every project here d
 
 # 📂 Projects
 
-### 🐧 Linux
-
+### 🛠️ Tools & Utilities
 | Project | Description |
 |---------|-----------|
 | **[Scroll Lock RGB Fix](https://github.com/kayo-willian/scrolllock-rgb-fix)** | Fixes RGB lighting on generic gaming keyboards that use the Scroll Lock LED as a firmware trigger for GNOME/Wayland systems (Ubuntu 24.04+) where the compositor doesn't sync LED state with the hardware. |
 
-### 🌐 Networking
-
+### 📡 Networking & Systems Labs
 | Project | Description |
 |---------|-----------|
-| **[Packet Tracer Labs](https://github.com/kayo-willian/packet-tracer-labs)**  | Hands on networking labs built in Cisco Packet Tracer, documenting routing, subnetting, DHCP, and other core concepts as I learn them. |
+| **[Packet Tracer Labs](https://github.com/kayo-willian/packet-tracer-labs)** | Hands on networking labs built in Cisco Packet Tracer, documenting routing, subnetting, DHCP, and other core concepts as I learn them. |
 | **[Linux Networking Labs](https://github.com/kayo-willian/linux-networking-labs)** | Hands on networking labs exploring real Linux systems. |
-| **[Ubuntu Server Labs](https://github.com/kayo-willian/ubuntu-server-labs)** | Hands-on Ubuntu Server labs covering Linux administration, networking, services, security, and multi-server infrastructure.|
-
+| **[Ubuntu Server Labs](https://github.com/kayo-willian/ubuntu-server-labs)** | Hands-on Ubuntu Server labs covering Linux administration, networking, services, security, and multi-server infrastructure. |
 
 ### 🛡️ Cybersecurity
-
 | Project | Description |
 |---------|-----------|
 | — | Coming soon |
