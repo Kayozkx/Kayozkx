@@ -55,6 +55,7 @@ A log of my path into Linux, networking, and cybersecurity. Every project here d
 | **[Packet Tracer Labs](https://github.com/kayo-willian/packet-tracer-labs)** | Hands-on networking labs built in Cisco Packet Tracer, progressing from core networking fundamentals to multi-site infrastructure, VLANs, DHCP, DNS, routing, OSPF, and network troubleshooting.|
 | **[Linux Networking Labs](https://github.com/kayo-willian/linux-networking-labs)** | Hands-on Linux labs exploring Ubuntu through the command line, system administration, networking, services, and practical troubleshooting.|
 | **[Ubuntu Server Labs](https://github.com/kayo-willian/ubuntu-server-labs)** | Hands-on Ubuntu Server labs covering Linux administration, networking, services, security, and multi-server infrastructure. |
+| **[Debian Server Labs](https://github.com/kayo-willian/debian-server-labs)** | Hands-on Debian Server labs focused on Linux administration, networking, services, security, and infrastructure. |
 
 ### 🛡️ Cybersecurity
 | Project | Description |
